@@ -22,4 +22,7 @@
 <code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <br>
+<br>
+<br>
+<br>
 <img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula"/>
