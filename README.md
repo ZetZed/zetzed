@@ -1,4 +1,4 @@
-<h1>Hello There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Zet Zed</h1>
+<h1>Hello There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Zet Zed<img align="right" width="30px" alt="GIF" src="https://78.media.tumblr.com/9fcc9762313e134b8710a8c2fb53ff5c/tumblr_o6g4rv4niS1toklayo1_1280.gif"/></h1>
 
 [![Linkedin: ZetZed](https://img.shields.io/badge/-ZetZed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zet-zed-644813197/)](https://www.linkedin.com/in/zet-zed-644813197/)
 
