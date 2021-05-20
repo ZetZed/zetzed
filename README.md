@@ -9,9 +9,9 @@
 
 <p>
 <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist-type-5_1f468-1f3fe-200d-1f4bb.png"/>
- An IT student passionate about technology, innovation and music.<br>
+ I'm an IT student passionate about technology and innovation!<br>
 <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/books_1f4da.png"/>
-  🌱 I’m currently learning Java and Kotlin.
+ I’m currently learning Java and Kotlin.
 </p>
 
 
