@@ -17,9 +17,9 @@
 
 
 <h4></b>Languages</b></h4>  
-<code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/60768726/137563857-aa847dc4-44ed-4aa6-ac0e-5e820dca323f.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/60768726/137563856-37a11203-6f9a-4c2f-b7df-e0a0ef18f4b2.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <br>
 <br>
