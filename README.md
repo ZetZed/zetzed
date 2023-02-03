@@ -23,4 +23,14 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <br>
 <br>
-<img align="left" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula"/>
