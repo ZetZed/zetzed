@@ -34,18 +34,3 @@
 <br>
 <br>
 <img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula"/>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
