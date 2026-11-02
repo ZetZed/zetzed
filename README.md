@@ -1,27 +1,48 @@
-<h1>Hello There <img src="https://user-images.githubusercontent.com/60768726/119019319-775ea100-b973-11eb-87a0-dae54d27ae1d.gif" width="30px">, I'm Zet Zed</h1>
+<div align="center">
+  <h1>Hello There, I'm Zet Zed 👋</h1>
+  <p>Software Engineer passionate about technology, innovation, and solving complex problems.</p>
 
-[![Linkedin: ZetZed](https://img.shields.io/badge/-ZetZed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigues-de-souza-arimura-644813197/)](https://www.linkedin.com/in/diego-rodrigues-de-souza-arimura-644813197/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-de-souza-arimura-644813197/)
+</div>
 
-<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br>
 
-<p>
-  👨🏾‍💻 I'm a Software Engineer passionate about technology and innovation!<br>
-  📚 Always learning new things!
-</p>
+<img align="right" width="400px" alt="Coding GIF" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<h4>Languages</h4>
+### 🚀 About Me
 
-<code><img height="30" src="https://user-images.githubusercontent.com/60768726/137563857-aa847dc4-44ed-4aa6-ac0e-5e820dca323f.png" alt="Python"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/60768726/137563856-37a11203-6f9a-4c2f-b7df-e0a0ef18f4b2.png" alt="SQL"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin"></code>
-<code><img height="30" src="https://github.com/user-attachments/assets/784151d4-8d85-415c-9c50-8d6f6c164208" alt="React"></code>
-<code><img height="30" src="https://github.com/user-attachments/assets/539188db-5166-48bb-bae3-71c5fb620f95" alt="Git"></code>
-<code><img height="30" src="https://github.com/user-attachments/assets/0da0c7aa-526a-431a-89bc-01e5d4f68ec4" alt="Flutter"></code>
+- 👨🏾‍💻 Currently focused on developing full-stack web and mobile software solutions.
+- 📚 Continuously learning new architectures, paradigms, and developer tools.
+- 🎯 Open to collaborating on open-source initiatives and innovative projects.
 
 <br clear="right"/>
-<br/>
+<br>
+
+---
+
+### 🛠️ Tech Stack & Languages
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br>
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ZetZed&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZetZed&layout=compact&theme=darcula" alt="Top Languages"/>
 </div>
