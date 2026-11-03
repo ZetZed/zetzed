@@ -2,7 +2,7 @@
   <h1>Hello There, I'm Zet Zed 👋</h1>
   <p>Software Engineer passionate about technology, innovation, and solving complex problems.</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-de-souza-arimura-644813197/)
+  
 </div>
 
 <br>
@@ -13,7 +13,6 @@
 
 - 👨🏾‍💻 Currently focused on developing full-stack web and mobile software solutions.
 - 📚 Continuously learning new architectures, paradigms, and developer tools.
-- 🎯 Open to collaborating on open-source initiatives and innovative projects.
 
 <br clear="right"/>
 <br>
